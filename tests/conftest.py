@@ -1,6 +1,7 @@
 import pytest
+from model.model import read_dataset
 
 
 @pytest.fixture()
 def data():
-    return None, None, None, None
+    return read_dataset()

@@ -1,3 +1,4 @@
+setuptools
 jupyter
 pandas
 pytest
