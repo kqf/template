@@ -2,3 +2,4 @@ setuptools
 jupyter
 pandas
 pytest
+click
