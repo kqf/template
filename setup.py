@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'solution=model.__main__:main',
+            'solution=model.main:main',
         ],
     },
 )

@@ -14,9 +14,5 @@ To run the solution do
 
 # Download the dataset *.csv into ./data folder 
 # and then run
-
-
-# It will train and validate the model for the
-# best parameters I was able to find
 make 
 ```

@@ -7,5 +7,5 @@ from model.model import build_model
               type=click.Path(exists=True),
               help='Path to the dataset',
               required=True)
-def main():
+def main(data):
     build_model()
